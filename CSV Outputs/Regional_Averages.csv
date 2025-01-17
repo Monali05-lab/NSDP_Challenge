@@ -1,0 +1,45 @@
+Region,Year,Average Delay (days)
+Africa,2015,51.0
+Africa,2016,54.0
+Africa,2017,32.0
+Africa,2018,45.0
+Africa,2019,46.0
+Africa,2020,31.5
+Africa,2021,30.5
+Africa,2022,14.0
+Africa,2023,33.666666666666664
+Asia,2015,33.0
+Asia,2016,35.142857142857146
+Asia,2017,27.5
+Asia,2018,48.0
+Asia,2019,38.333333333333336
+Asia,2020,36.333333333333336
+Asia,2021,22.666666666666668
+Asia,2022,52.0
+Asia,2023,25.6
+Europe,2015,28.727272727272727
+Europe,2016,32.5
+Europe,2017,23.8
+Europe,2018,43.666666666666664
+Europe,2019,24.0
+Europe,2020,36.0
+Europe,2021,41.5
+Europe,2022,27.833333333333332
+Europe,2023,42.375
+North America,2015,35.25
+North America,2016,36.0
+North America,2017,20.0
+North America,2018,39.0
+North America,2019,29.333333333333332
+North America,2020,27.0
+North America,2021,26.8
+North America,2022,39.333333333333336
+South America,2015,29.75
+South America,2016,37.0
+South America,2017,22.2
+South America,2018,39.5
+South America,2019,7.0
+South America,2020,32.2
+South America,2021,32.5
+South America,2022,57.0
+South America,2023,22.375
